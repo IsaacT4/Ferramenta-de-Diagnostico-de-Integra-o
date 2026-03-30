@@ -1,4 +1,4 @@
-# EVO Diagnostic Tool
+#  Diagnostic Tool
 
 Ferramenta de diagnóstico de conectividade para integração entre sistemas.
 
