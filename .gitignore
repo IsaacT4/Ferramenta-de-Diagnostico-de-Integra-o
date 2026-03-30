@@ -1,0 +1,14 @@
+venv/
+venv32/
+venv38/
+
+.env
+
+__pycache__/
+*.pyc
+
+build/
+dist/
+
+*.log
+Relatorio-*.txt
